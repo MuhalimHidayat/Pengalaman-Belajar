@@ -1,4 +1,6 @@
 <?php
-var_dump("ini files PHP yang akan di migrasikan kedalam laravel");
+
+var_dump("ini file PHP yang akan di migrasikan kedalam laravel Javacript dan CSS");
+
 
 ?>
